@@ -1,0 +1,17 @@
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Tom', '3', 1);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Jerry', '1', 0);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Micky', '5', 1);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Mouse', '4', 0);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Cat', '10', 0);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Batman', '45',0);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Robin', '30',0);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Penguin', '50', 1);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Kolyan', '25', 1);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Vasiliy', '38', 1);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Kostik', '17', 1);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('JavaDev', '33', 1);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Nik', '27', 0);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Bradly', '14', 0);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Selin', '62', 1);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Olga', '18', 1);
+INSERT INTO test.user (name, age, isAdmin) VALUES ('Maximka', '20', 1);
